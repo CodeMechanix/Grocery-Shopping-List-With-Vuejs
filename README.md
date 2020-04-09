@@ -2,4 +2,4 @@
 
 This is my first Vuejs project.
 
-![Project Image](https://github.com/Programming-Interview-Preparation/Learn-AJAX/blob/master/images/ajax.png)
+![Project Image](https://github.com/CodeMechanix/Grocery-Shopping-List-With-Vuejs/blob/master/Images/Full-Project.PNG)
